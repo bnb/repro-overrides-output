@@ -1,0 +1,26 @@
+{
+  "name": "repro-overrides-output",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bnb/repro-overrides-output.git"
+  },
+  "keywords": [],
+  "author": "Tierney Cyren <hello@bnb.im>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bnb/repro-overrides-output/issues"
+  },
+  "homepage": "https://github.com/bnb/repro-overrides-output#readme",
+  "dependencies": {
+    "jest": "^28.1.3"
+  },
+  "overrides": {
+    "@types/prettier": "2.6.0"
+  }
+}
